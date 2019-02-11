@@ -1,3 +1,6 @@
+### POINTS: 2
+### KEY: Good work, but always check that your user messages are formatted properly. Using String literals really helps with that. 
+
 # Review: JavaScript/jQuery
 
 ### Exercise 1: Selectors
